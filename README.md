@@ -1,6 +1,6 @@
 # Hey, I'm Luke 👋
 
-I'm a Machine Learning Engineer based in the UK, interested in Deep Learning, ML platform engineering and MLOps.
+I'm a Machine Learning Engineer based in the UK - interested in Diffusion/Flow Generative models, ML platform engineering and MLOps.
 
 ## Current Focus
 
